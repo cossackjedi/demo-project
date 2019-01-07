@@ -2,4 +2,4 @@
 
 ## With @VladyslavYakymenkoCom
 
-This repo is to practice the GiyHub Flow in many ways... :tada:
+This repo is to practice the GitHub Flow in many ways... :tada:
